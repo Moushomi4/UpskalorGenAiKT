@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+transformers
+torch
+python-dotenv
+faiss-cpu

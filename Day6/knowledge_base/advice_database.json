@@ -1,0 +1,18 @@
+{
+    "Stress Management": [
+        {
+            "area": "Work Stress",
+            "advice": "Break tasks into 25-minute blocks (Pomodoro). It reduces the feeling of being overwhelmed."
+        },
+        {
+            "area": "Family Pressure",
+            "advice": "Set clear boundaries. Saying 'I need 10 minutes' is a sign of strength, not neglect."
+        }
+    ],
+    "Clarity Boosters": [
+        {
+            "area": "Overthinking",
+            "advice": "Write down the three things bothering you. Transferring them to paper stops the mental loop."
+        }
+    ]
+}

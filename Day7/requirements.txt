@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+python-jose
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+transformers
+torch
+faiss-cpu
+pypdf
+python-dotenv
+langchain-google-genai
+google-generativeai
+python-multipart
+
+# ChatGroq
+# langchain-groq
